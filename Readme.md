@@ -8,7 +8,7 @@
 
 * [Program.cs](./CS/RemoveSpecificMarkupAnnotations/Program.cs) (VB: [Program.vb](./VB/RemoveSpecificMarkupAnnotations/Program.vb))
 <!-- default file list end -->
-# PDF Document API - Remove Specific Markup Annotations from a Document Page
+# PDF Document API - Remove Specific Text Markup Annotations from a Document Page
 
 
 This example shows how to delete text markup annotations by a particular author.
